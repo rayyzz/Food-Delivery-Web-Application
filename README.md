@@ -5,14 +5,14 @@ Login Information:
 
 McDonalds Page
 _______________________
-Username: McDonald's
-Password: horsemeat
+- Username: McDonald's
+- Password: horsemeat
 
 
 Burger King Page
 ________________________
-Username: BurgerKing
-Password: kingburger
+- Username: BurgerKing
+- Password: kingburger
 
 
 Tools & Technologies used: 
